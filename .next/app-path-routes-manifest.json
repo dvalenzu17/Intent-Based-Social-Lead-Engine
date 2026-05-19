@@ -1,0 +1,10 @@
+{
+  "/(dashboard)/page": "/",
+  "/(dashboard)/saved/page": "/saved",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/cron/route": "/api/cron",
+  "/api/ingest/route": "/api/ingest",
+  "/api/leads/[id]/route": "/api/leads/[id]",
+  "/favicon.ico/route": "/favicon.ico"
+}
